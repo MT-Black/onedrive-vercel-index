@@ -56,7 +56,7 @@ module.exports = {
       link: 'https://github.com/mt-black',
     },
     {
-      name: 'Blog',
+      name: 'blog',
       link: 'https://lcoo.cc',
     },
   ],
