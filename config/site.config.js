@@ -44,7 +44,7 @@ module.exports = {
   // the directories in which you have .password set. Check the documentation for details.
   protectedRoutes: [
     '/📕 我的小秘密', 
-    '/📃 常信网页'
+    '/📃 网页作业（密码是学校简称-小写）',
   ],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
